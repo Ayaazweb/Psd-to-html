@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.nav-link{
+    color: #fff;
+    font-weight: 500px;
+    font-size: 20px;
+}
+.nav-link:hover{
+    color: rgb(248, 204, 8);
+}
+
+
+.banner{
+    background-image: url(./image/backpar.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -100px;
+}
+.banner h6{
+    color: #0282c4;
+    font-family: sans-serif;
+    font-weight: 500px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.banner h1{
+    color: #ffffff;
+    font-weight: 200px;
+    margin-top: 30px;
+}
+.banner p{
+    color: #6b6b6d;
+    margin-top: 20px;
+
+}
+.banner_img{
+    position: absolute;
+    bottom: 0;
+    margin-left: 270px;
+
+}
+.height{
+    min-height: 80vh;
+    align-items: center;
+    position: relative;
+
+}
+.download-now{
+    background-color: #0282c4;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.view-features{
+    color: #fff;
+    border-color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.overview{
+
+}
+.overview h6{
+    text-align: center;
+    color: #0282c4;
+    text-transform: uppercase;
+
+}
+.overview h2{
+    text-align: center;
+
+}
+h4,p,ul{
+    margin: 0;
+    padding: 0;
+}
+.icon{
+    
+}
+.right_contant{
+
+}
+.right_contant ul{
+    list-style: none;
+    display: flex;
+    
+}
+.right_contant ul li{
+    margin-left: 150px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+h4,p,ul{
+    margin: 0;
+    padding: 0;
+}
+.header_right_Contant{
+
+}
+.header_right_Contant ul{
+    list-style: none;
+    display: flex;
+}
+.header_right_Contant ul li{
+    margin-left: 70px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.header_info{
+    
+}
+.header_icon{
+    font-size: 30px;
+    color: #0282c4;
+
+}
+.header_icon h4{
+    margin-top: 10px;
+}
+.header_icon p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.details{
+
+}
+.details img{
+    position: absolute;
+    bottom: 0;
+    box-shadow: #6b6b6d;
+}
+.height{
+    position: relative;
+    margin-top: -80px;
+
+
+}
+
+.details h5{
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #0282c4;
+
+}
+.details h2{
+    margin-top: 10px;
+
+}
+.details span{
+
+}
+.details p{
+    margin-top: 20px;
+}
+.Super{
+    background-color: #f2f2f2;
+    margin-top: 80px;
+    box-shadow: #1c1c1d;
+}
+.Super h5{
+    color: #0282c4;
+    text-transform: uppercase;
+    margin-top: 120px;
+
+}
+.Super h2{
+    margin-top: 40px;
+
+}
+.Super p{
+    margin-top: 40px;
+
+}
+.Super img{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.priceing{
+    background-image: url(./image/back2.png);
+}
+.priceing h6{
+    color: #0282c4;
+    text-transform: uppercase;
+   text-align: center;
+}
+.pricing{
+    background-image: url(./image/back2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.pricing h6{
+    color: #0282c4;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+
+}
+.pricing h4{
+    text-align: center;
+    color: #fff;
+
+}
+.plug{
+
+}
+.plug p{
+    color: #fff;
+    text-align: center;
+    margin-left: 50px;
+    
+
+}
+.plug{
+    
+}
+.plug p{
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.plug img{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.plug h3{
+    margin-left: 220px;
+    margin-top: -60px;
+    color: #fff;
+    
+
+}
+.plug h5{
+    margin-left:210px;
+    color: #fff;
+}
+.like{
+    background-color: #15141a;
+}
+.like h4{
+    color: #fff;
+    margin-top: 50px;
+    overflow: hidden;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.view-feature{
+    color: #fff;
+    text-align: center;
+    display: flex;
+}
+.Download-now{
+    color: #fff;
+}
